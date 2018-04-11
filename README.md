@@ -1,1 +1,0 @@
-Squares numbers given in input until a -1 is given!
